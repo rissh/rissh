@@ -2,7 +2,7 @@
 <h3 align="center">An aspiring Python Developer from India</h3>
 
 ## 💫 About Me:
-🌱 I’m currently learning **Django** and **Devops**<br>👯 I’m looking to collaborate with geeky minds<br>🥅 2022 Goals: Contribute more to Open Source projects<br>
+🌱 I’m currently learning **Django** and **Devops**<br>👯 I’m looking to collaborate with geeky minds<br>🥅 2023 Goals: Contribute more to Open Source projects<br>
 💬 Ask me about **Python, React, Django**<br>
 ⚡ Also Known As **Little Monster**
 
