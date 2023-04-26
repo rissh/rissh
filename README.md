@@ -3,7 +3,7 @@
 
 ## 💫 About Me:
 🌱 I’m currently learning **Django** and **Devops**<br>👯 I’m looking to collaborate with geeky minds<br>🥅 2023 Goals: Contribute more to Open Source projects<br>
-💬 Ask me about **Python, React, Django**<br>
+💬 Ask me about **Python, React**<br>
 ⚡ Also Known As **Little Monster**
 
 [![](https://visitcount.itsvg.in/api?id=rissh&icon=0&color=12)](https://visitcount.itsvg.in)
