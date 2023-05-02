@@ -11,8 +11,8 @@
 
 ### 🌐 **How to reach me**:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/rishikesh-jagadale-331812207/)) 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=whitelink=mailto:rishikeshjagadale23@gmail.com)](mailto:rishikeshjagadale23@gmail.com)
-[![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)]((https://hub.docker.com/u/littlemonster23))
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:rishikeshjagadale23@gmail.com)](mailto:rishikeshjagadale23@gmail.com)
+[![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white&link=https://hub.docker.com/u/littlemonster23)](https://hub.docker.com/u/littlemonster23)
 ---
 
 ### 💻 **Tech Stack**:
