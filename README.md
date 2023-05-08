@@ -10,9 +10,14 @@
 ---
 
 ### 🌐 **How to reach me**:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/rishikesh-jagadale-331812207/)) 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:rishikeshjagadale23@gmail.com)](mailto:rishikeshjagadale23@gmail.com)
-[![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white&link=https://hub.docker.com/u/littlemonster23)](https://hub.docker.com/u/littlemonster23)
+<p align="left">
+    <a href="https://www.linkedin.com/in/rishikesh-jagadale-331812207/" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+            alt="rishikesh-jagadale-331812207" height="30" width="40" /></a>
+    <a href="https://leetcode.com/LittleMonster23/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Rishikesh_Jagadale" height="30" width="40" /></a>
+    <a href="https://auth.geeksforgeeks.org/user/littlemonster/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="Rishikesh_Jagadale" height="30" width="40" /></a>
+</p>
+
 ---
 
 ### 💻 **Tech Stack**:
@@ -24,8 +29,9 @@
 ---
 
 ### 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=rissh&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rissh&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rissh&theme=default&hide_border=false" alt="Rishikesh_Jagdale" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rissh&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Rishikesh_Jagadale" /></p>
 
 
 ---
