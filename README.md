@@ -28,13 +28,13 @@
 
 ---
 
+<!--
 ### 📊 GitHub Stats:
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rissh&theme=default&hide_border=false" alt="Rishikesh_Jagdale" /></p>
 
-
 ---
-
+-->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
 **rissh/rissh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
